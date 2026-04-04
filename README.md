@@ -25,6 +25,8 @@
   适合做：工作室作品集 · 案例展示 · Selected Works
 - [人文现代 (Humanist Modern Brand)](styles/humanist-modern/SKILL.md)  
   适合做：生活方式品牌 · 现代产品品牌 · 内容品牌首页
+- [创意媒体 (Creative Media Editorial)](styles/creative-media/SKILL.md)  
+  适合做：创意媒体 · 设计博客 · 文化资讯
 - [霓虹科技 (Neon Techno-Futurist Interface)](styles/neon-tech/SKILL.md)  
   适合做：游戏页 · 发布页 · 未来科技
 - [杂志编辑 (Magazine Editorial)](styles/magazine-editorial/SKILL.md)  
@@ -39,8 +41,12 @@
   适合做：创作者发布 · 实验品牌 · 宣言页
 - [产品工具 (Product Precision Interface)](styles/product-tool/SKILL.md)  
   适合做：AI 工具 · 产品官网 · 平台页
+- [模板市场 (Template Market Library)](styles/template-market/SKILL.md)  
+  适合做：模板库 · Prompt 库 · Starter Kit
 - [参考目录 (Curated Reference Directory)](styles/reference-directory/SKILL.md)  
   适合做：灵感库 · 模板库 · 参考站
+- [灵感看板 (Networked Visual Board)](styles/visual-board/SKILL.md)  
+  适合做：灵感库 · 研究地图 · 案例收集
 - [知识系统 (Evidence-Dense Knowledge Surface)](styles/knowledge-system/SKILL.md)  
   适合做：知识库 · 研究站 · 设计系统
 - [舞台展示 (Stage-Driven Showcase)](styles/stage-showcase/SKILL.md)  

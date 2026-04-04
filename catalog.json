@@ -118,6 +118,35 @@
     "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/humanist-modern"
   },
   {
+    "slug": "creative-media",
+    "nameZh": "创意媒体",
+    "titleEn": "Creative Media Editorial",
+    "summaryZh": "介于杂志封面和内容 feed 之间的创意媒体首页，既要有图像张力，也要有持续更新时的浏览效率。",
+    "cardUses": [
+      "创意媒体",
+      "设计博客",
+      "文化资讯"
+    ],
+    "lookLike": [
+      "栏目感强",
+      "图文并行",
+      "更新频繁",
+      "封面与列表共存"
+    ],
+    "notFor": [
+      "重操作工具页",
+      "强销售落地页",
+      "只有少量内容的站"
+    ],
+    "filterTags": [
+      "magazine-publishing"
+    ],
+    "cover": "itsnicethat-live.png",
+    "coverLabel": "It's Nice That",
+    "demoHref": "https://www.itsnicethat.com/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/creative-media"
+  },
+  {
     "slug": "neon-tech",
     "nameZh": "霓虹科技",
     "titleEn": "Neon Techno-Futurist Interface",
@@ -325,6 +354,35 @@
     "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/product-tool"
   },
   {
+    "slug": "template-market",
+    "nameZh": "模板市场",
+    "titleEn": "Template Market Library",
+    "summaryZh": "更偏模板库、starter kit 和资源市场的浏览形态，既有高密度索引，也有明确的转化入口，但不该退化成普通 SaaS 落地页。",
+    "cardUses": [
+      "模板库",
+      "Prompt 库",
+      "Starter Kit"
+    ],
+    "lookLike": [
+      "分类清楚",
+      "卡片可转化",
+      "列表密度高",
+      "浏览与购买并存"
+    ],
+    "notFor": [
+      "纯品牌故事页",
+      "长文特稿",
+      "沉浸式发布页"
+    ],
+    "filterTags": [
+      "product-tool"
+    ],
+    "cover": "notion-templates-live.png",
+    "coverLabel": "Notion Templates",
+    "demoHref": "https://www.notion.com/templates",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/template-market"
+  },
+  {
     "slug": "reference-directory",
     "nameZh": "参考目录",
     "titleEn": "Curated Reference Directory",
@@ -353,6 +411,36 @@
     "coverLabel": "SiteInspire",
     "demoHref": "https://www.siteinspire.com/",
     "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/reference-directory"
+  },
+  {
+    "slug": "visual-board",
+    "nameZh": "灵感看板",
+    "titleEn": "Networked Visual Board",
+    "summaryZh": "更像灵感看板、研究地图和视觉数据库的浏览系统，卡片、标签与关联路径和首图一样重要。",
+    "cardUses": [
+      "灵感库",
+      "研究地图",
+      "案例收集"
+    ],
+    "lookLike": [
+      "关系感强",
+      "卡片可延展",
+      "标签驱动",
+      "收藏与下钻并存"
+    ],
+    "notFor": [
+      "单一品牌首页",
+      "高转化落地页",
+      "严格流程工具"
+    ],
+    "filterTags": [
+      "product-tool",
+      "bold-personality"
+    ],
+    "cover": "arena-home-live.png",
+    "coverLabel": "Are.na",
+    "demoHref": "https://www.are.na/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/visual-board"
   },
   {
     "slug": "knowledge-system",
