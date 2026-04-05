@@ -19,12 +19,20 @@
 
 - [瑞士网格 (Swiss Typographic Grid)](styles/swiss-grid/SKILL.md)  
   适合做：档案站 · 工作室 · 参考库
+- [机构项目网格 (Institutional Program Grid)](styles/institutional-grid/SKILL.md)  
+  适合做：美术馆站 · 机构项目 · 节展计划
 - [极简黑白 (Monochrome Studio Systems)](styles/minimal-black-white/SKILL.md)  
   适合做：作品集 · 品牌站 · 工作室
 - [暗色画廊 (Dark Studio Gallery)](styles/dark-studio-gallery/SKILL.md)  
   适合做：工作室作品集 · 案例展示 · Selected Works
 - [人文现代 (Humanist Modern Brand)](styles/humanist-modern/SKILL.md)  
   适合做：生活方式品牌 · 现代产品品牌 · 内容品牌首页
+- [报告叙事 (Report Storytelling Narrative)](styles/report-storytelling/SKILL.md)  
+  适合做：年度报告 · 研究专题 · 影响力报告
+- [开发者平台 (Developer Infrastructure Aura)](styles/developer-platform/SKILL.md)  
+  适合做：云平台 · 开发者工具 · API 平台
+- [工业硬件极简 (Industrial Hardware Minimal)](styles/industrial-hardware/SKILL.md)  
+  适合做：硬件发布 · 设备单品 · 科技品牌
 - [创意媒体 (Creative Media Editorial)](styles/creative-media/SKILL.md)  
   适合做：创意媒体 · 设计博客 · 文化资讯
 - [霓虹科技 (Neon Techno-Futurist Interface)](styles/neon-tech/SKILL.md)  
@@ -35,6 +43,10 @@
   适合做：时尚品牌 · 奢刊专题 · 文化品牌
 - [工艺自然 (Quiet Lifestyle Editorial)](styles/craft-natural/SKILL.md)  
   适合做：生活方式 · 品牌页 · 慢内容
+- [编辑商店 (Editorial Commerce Catalog)](styles/editorial-commerce/SKILL.md)  
+  适合做：设计商店 · 刊物目录 · 内容品牌零售
+- [排印海报实验 (Experimental Typographic Poster)](styles/typographic-poster/SKILL.md)  
+  适合做：设计活动 · 展览专题 · 文化 campaign
 - [大胆个性 (Playful Postmodern / Anti-Grid)](styles/bold-personality/SKILL.md)  
   适合做：创作者 · 个人站 · 反模板发布
 - [粗野直给 (Brutalist Raw Interface)](styles/brutalist-raw/SKILL.md)  
