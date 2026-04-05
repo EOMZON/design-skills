@@ -29,6 +29,36 @@
     "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/swiss-grid"
   },
   {
+    "slug": "identity-case-archive",
+    "nameZh": "品牌案例档案",
+    "titleEn": "Identity Case Archive",
+    "summaryZh": "更像 identity studio、品牌机构和设计咨询公司的案例档案页，重点是把品牌、包装、字体和行业案例组织成一套严谨可读的 archive。",
+    "cardUses": [
+      "品牌机构",
+      "设计咨询",
+      "案例档案"
+    ],
+    "lookLike": [
+      "案例先行",
+      "元数据清楚",
+      "机构感强",
+      "档案秩序明显"
+    ],
+    "notFor": [
+      "纯情绪发布页",
+      "随机作品墙",
+      "高频工具台"
+    ],
+    "filterTags": [
+      "minimal-black-white",
+      "magazine-publishing"
+    ],
+    "cover": "pentagram.png",
+    "coverLabel": "Pentagram",
+    "demoHref": "https://www.pentagram.com/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/identity-case-archive"
+  },
+  {
     "slug": "institutional-grid",
     "nameZh": "机构项目网格",
     "titleEn": "Institutional Program Grid",
@@ -57,6 +87,36 @@
     "coverLabel": "Swiss Institute",
     "demoHref": "https://www.swissinstitute.net/",
     "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/institutional-grid"
+  },
+  {
+    "slug": "civic-service",
+    "nameZh": "公共服务清晰系统",
+    "titleEn": "Civic Service Clarity",
+    "summaryZh": "更像 GOV.UK 这类公共服务入口的高可读网页语言，重点是任务路径、文案清晰和可信，而不是品牌表达。",
+    "cardUses": [
+      "公共服务站",
+      "流程办理页",
+      "服务设计文档"
+    ],
+    "lookLike": [
+      "plain language",
+      "任务入口强",
+      "层级稳定",
+      "高可读"
+    ],
+    "notFor": [
+      "奢华品牌首页",
+      "实验海报页",
+      "纯情绪发布页"
+    ],
+    "filterTags": [
+      "product-tool",
+      "minimal-black-white"
+    ],
+    "cover": "govuk.png",
+    "coverLabel": "GOV.UK",
+    "demoHref": "https://www.gov.uk/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/civic-service"
   },
   {
     "slug": "minimal-black-white",
@@ -118,6 +178,36 @@
     "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/dark-studio-gallery"
   },
   {
+    "slug": "architecture-space",
+    "nameZh": "建筑空间极简",
+    "titleEn": "Architecture Space Minimal",
+    "summaryZh": "更像建筑事务所、空间设计与文化空间站点，靠留白、空间图像和项目秩序建立判断，不靠重组件。",
+    "cardUses": [
+      "建筑事务所",
+      "空间品牌",
+      "practice archive"
+    ],
+    "lookLike": [
+      "空间图像主导",
+      "留白很多",
+      "项目秩序清楚",
+      "practice 感强"
+    ],
+    "notFor": [
+      "高频功能工具",
+      "大促电商",
+      "霓虹科技发布页"
+    ],
+    "filterTags": [
+      "minimal-black-white",
+      "craft-natural"
+    ],
+    "cover": "snohetta.png",
+    "coverLabel": "Snohetta",
+    "demoHref": "https://snohetta.com/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/architecture-space"
+  },
+  {
     "slug": "humanist-modern",
     "nameZh": "人文现代",
     "titleEn": "Humanist Modern Brand",
@@ -146,6 +236,96 @@
     "coverLabel": "Monocle",
     "demoHref": "https://monocle.com/",
     "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/humanist-modern"
+  },
+  {
+    "slug": "hospitality-scene",
+    "nameZh": "酒店场景叙事",
+    "titleEn": "Hospitality Scene Editorial",
+    "summaryZh": "更像酒店、餐饮和城市文化场景页的家族，首页像进入一个地方，而不是看一份普通品牌介绍。",
+    "cardUses": [
+      "酒店品牌",
+      "餐饮空间",
+      "城市场景页"
+    ],
+    "lookLike": [
+      "地点气氛强",
+      "program 并列",
+      "摄影先行",
+      "像进入一个地方"
+    ],
+    "notFor": [
+      "工具后台",
+      "高密度知识站",
+      "模板市场首页"
+    ],
+    "filterTags": [
+      "craft-natural",
+      "magazine-publishing"
+    ],
+    "cover": "ace-hotel.png",
+    "coverLabel": "Ace Hotel",
+    "demoHref": "https://acehotel.com/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/hospitality-scene"
+  },
+  {
+    "slug": "modern-commerce-minimal",
+    "nameZh": "现代零售极简",
+    "titleEn": "Modern Commerce Minimal",
+    "summaryZh": "更像 Everlane、COS 这类现代零售首页，产品图、分类入口和品牌语气都很安静，但转化路径依旧清楚。",
+    "cardUses": [
+      "服饰零售",
+      "DTC 品牌",
+      "品类目录页"
+    ],
+    "lookLike": [
+      "低噪声商品图",
+      "分类入口清楚",
+      "品牌语气安静",
+      "购物路径克制"
+    ],
+    "notFor": [
+      "复杂后台工具",
+      "研究档案站",
+      "强世界观游戏页"
+    ],
+    "filterTags": [
+      "craft-natural",
+      "product-tool"
+    ],
+    "cover": "everlane.png",
+    "coverLabel": "Everlane",
+    "demoHref": "https://www.everlane.com/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/modern-commerce-minimal"
+  },
+  {
+    "slug": "photo-journal-archive",
+    "nameZh": "摄影期刊档案",
+    "titleEn": "Photo Journal Archive",
+    "summaryZh": "更像摄影期刊、艺术图录和图像档案首页，封面、essay、issue 与 archive 深度比普通媒体列表更重要。",
+    "cardUses": [
+      "摄影出版",
+      "图像档案",
+      "艺术期刊"
+    ],
+    "lookLike": [
+      "封面先行",
+      "issue 节奏",
+      "图像尺度大",
+      "archive 深度强"
+    ],
+    "notFor": [
+      "高频工具站",
+      "纯流程服务页",
+      "普通资讯 feed"
+    ],
+    "filterTags": [
+      "magazine-publishing",
+      "minimal-black-white"
+    ],
+    "cover": "aperture.png",
+    "coverLabel": "Aperture",
+    "demoHref": "https://aperture.org/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/photo-journal-archive"
   },
   {
     "slug": "report-storytelling",
@@ -178,6 +358,66 @@
     "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/report-storytelling"
   },
   {
+    "slug": "design-system-foundation",
+    "nameZh": "设计系统基座",
+    "titleEn": "Design System Foundation",
+    "summaryZh": "更像 foundations、tokens、guidelines 和 component rules 首页的系统文档家族，主角不是营销 hero，而是规则、部件和设计治理本身。",
+    "cardUses": [
+      "设计系统",
+      "组件规范",
+      "基础库"
+    ],
+    "lookLike": [
+      "foundation 导航",
+      "规则先行",
+      "侧栏稳定",
+      "部件层级清楚"
+    ],
+    "notFor": [
+      "情绪品牌页",
+      "慢内容首页",
+      "沉浸发布页"
+    ],
+    "filterTags": [
+      "product-tool",
+      "minimal-black-white"
+    ],
+    "cover": "atlassian-foundations.png",
+    "coverLabel": "Atlassian Foundations",
+    "demoHref": "https://atlassian.design/foundations/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/design-system-foundation"
+  },
+  {
+    "slug": "expert-course-marketplace",
+    "nameZh": "专家课程平台",
+    "titleEn": "Expert Course Marketplace",
+    "summaryZh": "更像 cohort course、专家课程和 creator education 平台首页，课程卡、导师信誉、课程大纲和报名路径要同时成立。",
+    "cardUses": [
+      "课程平台",
+      "creator education",
+      "cohort course"
+    ],
+    "lookLike": [
+      "课程卡清楚",
+      "导师信誉强",
+      "报名路径短",
+      "目录与内容并存"
+    ],
+    "notFor": [
+      "纯品牌大片",
+      "空间作品集",
+      "政府服务页"
+    ],
+    "filterTags": [
+      "product-tool",
+      "magazine-publishing"
+    ],
+    "cover": "maven.png",
+    "coverLabel": "Maven",
+    "demoHref": "https://maven.com/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/expert-course-marketplace"
+  },
+  {
     "slug": "developer-platform",
     "nameZh": "开发者平台",
     "titleEn": "Developer Infrastructure Aura",
@@ -206,6 +446,36 @@
     "coverLabel": "Vercel",
     "demoHref": "https://vercel.com/",
     "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/developer-platform"
+  },
+  {
+    "slug": "bento-product-launch",
+    "nameZh": "Bento 产品发布",
+    "titleEn": "Bento Product Launch",
+    "summaryZh": "更像当代 AI 和 startup 产品落地页的 Bento 拼块版本，用模块化卡片和快节奏扫描帮助用户迅速抓住能力边界。",
+    "cardUses": [
+      "AI 产品",
+      "startup 官网",
+      "模块化 landing page"
+    ],
+    "lookLike": [
+      "hero 后接拼块",
+      "快节奏扫读",
+      "产品卡片密",
+      "说明模块化"
+    ],
+    "notFor": [
+      "安静生活方式站",
+      "机构 program 首页",
+      "纯图像期刊"
+    ],
+    "filterTags": [
+      "product-tool",
+      "technology-future"
+    ],
+    "cover": "bolt-new.png",
+    "coverLabel": "Bolt",
+    "demoHref": "https://bolt.new/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/bento-product-launch"
   },
   {
     "slug": "industrial-hardware",
@@ -265,6 +535,35 @@
     "coverLabel": "It's Nice That",
     "demoHref": "https://www.itsnicethat.com/",
     "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/creative-media"
+  },
+  {
+    "slug": "journal-frontpage",
+    "nameZh": "评论期刊首页",
+    "titleEn": "Journal Frontpage",
+    "summaryZh": "更像长期更新的评论刊物、文化周刊和新闻评论首页，有稳定刊头、栏目层级和持续更新节奏，不完全等同于特稿式 editorial 首页。",
+    "cardUses": [
+      "评论媒体",
+      "文化周刊",
+      "长期刊物"
+    ],
+    "lookLike": [
+      "刊头权威",
+      "栏目很多",
+      "headline 清楚",
+      "更新节奏稳定"
+    ],
+    "notFor": [
+      "一次性专题页",
+      "重工具产品",
+      "强销售首页"
+    ],
+    "filterTags": [
+      "magazine-publishing"
+    ],
+    "cover": "newyorker.png",
+    "coverLabel": "The New Yorker",
+    "demoHref": "https://www.newyorker.com/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/journal-frontpage"
   },
   {
     "slug": "neon-tech",
@@ -563,6 +862,36 @@
     "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/template-market"
   },
   {
+    "slug": "showcase-index",
+    "nameZh": "甄选展示索引",
+    "titleEn": "Showcase Discovery Index",
+    "summaryZh": "更像 SiteInspire、Awwwards 这类甄选展示首页的家族：先给 featured picks，再给 popular categories 和发现墙，策展口味比内部资料管理更强。",
+    "cardUses": [
+      "甄选案例站",
+      "奖项展示",
+      "灵感发现"
+    ],
+    "lookLike": [
+      "featured 入口",
+      "分类 chips",
+      "案例墙密集",
+      "策展口味强"
+    ],
+    "notFor": [
+      "内部知识库",
+      "单一品牌首页",
+      "重操作工作台"
+    ],
+    "filterTags": [
+      "product-tool",
+      "magazine-publishing"
+    ],
+    "cover": "awwwards-websites-live.png",
+    "coverLabel": "Awwwards / Websites",
+    "demoHref": "https://www.awwwards.com/websites/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/showcase-index"
+  },
+  {
     "slug": "reference-directory",
     "nameZh": "参考目录",
     "titleEn": "Curated Reference Directory",
@@ -591,6 +920,36 @@
     "coverLabel": "SiteInspire",
     "demoHref": "https://www.siteinspire.com/",
     "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/reference-directory"
+  },
+  {
+    "slug": "creative-network",
+    "nameZh": "作品社区网络",
+    "titleEn": "Creative Portfolio Network",
+    "summaryZh": "更像 Behance 这类公开作品网络与 creator platform 的家族，作品卡、作者主页、社交证明和发现机制要同时成立。",
+    "cardUses": [
+      "创意社区",
+      "作品平台",
+      "公开案例库"
+    ],
+    "lookLike": [
+      "作者与作品并列",
+      "公开发现机制",
+      "社交证明",
+      "平台感更强"
+    ],
+    "notFor": [
+      "纯研究地图",
+      "机构档案站",
+      "安静长文首页"
+    ],
+    "filterTags": [
+      "product-tool",
+      "bold-personality"
+    ],
+    "cover": "behance.png",
+    "coverLabel": "Behance",
+    "demoHref": "https://www.behance.net/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/creative-network"
   },
   {
     "slug": "visual-board",
