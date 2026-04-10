@@ -1,6 +1,6 @@
 # design-skills
 
-中文优先的网站风格技能仓库。这里每个 `styles/<slug>/SKILL.md` 都和 [design.zondev.top](https://design.zondev.top/) 上的一个具体风格详情页一一对应。
+中文优先的网站风格技能仓库。这里每个 `styles/<slug>/SKILL.md` 都和 [webdesign.zondev.top](https://webdesign.zondev.top/) 上的一个具体风格详情页一一对应。
 
 ## 这个仓库解决什么
 
@@ -10,7 +10,7 @@
 
 ## 如何使用
 
-1. 先在 [design.zondev.top/browse](https://design.zondev.top/browse) 找到接近的风格
+1. 先在 [webdesign.zondev.top/browse](https://webdesign.zondev.top/browse) 找到接近的风格
 2. 打开对应详情页，确认“适合做 / 不适合做 / 参考网站”
 3. 下载或复制这个仓库里的 `SKILL.md`，放进你的 skills 目录
 4. 再把真实内容需求和这个 skill 一起给 AI
@@ -43,12 +43,22 @@
   适合做：年度报告 · 研究专题 · 影响力报告
 - [设计系统基座 (Design System Foundation)](styles/design-system-foundation/SKILL.md)  
   适合做：设计系统 · 组件规范 · 基础库
+- [文档优先开源产品 (Docs-First Open Source Hybrid)](styles/docs-first-open-source/SKILL.md)  
+  适合做：开源产品 · framework 官网 · 开发者工具
 - [专家课程平台 (Expert Course Marketplace)](styles/expert-course-marketplace/SKILL.md)  
   适合做：课程平台 · creator education · cohort course
 - [开发者平台 (Developer Infrastructure Aura)](styles/developer-platform/SKILL.md)  
   适合做：云平台 · 开发者工具 · API 平台
+- [金融可信平台 (Fintech Trust Platform)](styles/fintech-trust/SKILL.md)  
+  适合做：支付平台 · 银行产品 · 财务工具
 - [Bento 产品发布 (Bento Product Launch)](styles/bento-product-launch/SKILL.md)  
   适合做：AI 产品 · startup 官网 · 模块化 landing page
+- [AI 助手着陆页 (AI Companion Landing)](styles/ai-companion/SKILL.md)  
+  适合做：agent 产品 · 客服 AI · 自动化助手
+- [医疗健康软科技 (Health & Care Soft-Tech)](styles/health-soft-tech/SKILL.md)  
+  适合做：数字健康 · care 科技 · 医疗品牌站
+- [前沿研究实验室 (Frontier Research Lab)](styles/frontier-research-lab/SKILL.md)  
+  适合做：研究机构 · AI research · 科学平台公司
 - [工业硬件极简 (Industrial Hardware Minimal)](styles/industrial-hardware/SKILL.md)  
   适合做：硬件发布 · 设备单品 · 科技品牌
 - [创意媒体 (Creative Media Editorial)](styles/creative-media/SKILL.md)  
@@ -90,7 +100,7 @@
 
 ## 同步规则
 
-- 站点浏览层：`design-site`
+- 站点浏览层：`webdesign-site`
 - 公共 skills 层：`design-skills`
 - 这两个仓库通过 `npm run build && npm run export:skills` 保持同步
 

@@ -388,6 +388,37 @@
     "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/design-system-foundation"
   },
   {
+    "slug": "docs-first-open-source",
+    "nameZh": "文档优先开源产品",
+    "titleEn": "Docs-First Open Source Hybrid",
+    "summaryZh": "更像 Supabase、Astro、Bun 这类文档优先的开源产品首页，重点是安装路径、文档邻接、代码可信和社区证明，而不是重 marketing 氛围。",
+    "cardUses": [
+      "开源产品",
+      "framework 官网",
+      "开发者工具"
+    ],
+    "lookLike": [
+      "get started 很近",
+      "文档邻接",
+      "代码可信",
+      "社区证明明确"
+    ],
+    "notFor": [
+      "纯大片品牌页",
+      "无文档入口的营销站",
+      "情绪型杂志首页"
+    ],
+    "filterTags": [
+      "product-tool",
+      "technology-future",
+      "minimal-black-white"
+    ],
+    "cover": "supabase.png",
+    "coverLabel": "Supabase",
+    "demoHref": "https://supabase.com/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/docs-first-open-source"
+  },
+  {
     "slug": "expert-course-marketplace",
     "nameZh": "专家课程平台",
     "titleEn": "Expert Course Marketplace",
@@ -448,6 +479,35 @@
     "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/developer-platform"
   },
   {
+    "slug": "fintech-trust",
+    "nameZh": "金融可信平台",
+    "titleEn": "Fintech Trust Platform",
+    "summaryZh": "更像 Plaid、Mercury、Wise 这类金融产品与支付平台首页，核心是可信感、交易清晰度、流程可靠性和产品证明同时成立。",
+    "cardUses": [
+      "支付平台",
+      "银行产品",
+      "财务工具"
+    ],
+    "lookLike": [
+      "trust 很快出现",
+      "交易路径清楚",
+      "产品界面证明能力",
+      "金融动作可读"
+    ],
+    "notFor": [
+      "海报式文化首页",
+      "纯情绪发布页",
+      "实验排印专题"
+    ],
+    "filterTags": [
+      "product-tool"
+    ],
+    "cover": "mercury.png",
+    "coverLabel": "Mercury",
+    "demoHref": "https://mercury.com/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/fintech-trust"
+  },
+  {
     "slug": "bento-product-launch",
     "nameZh": "Bento 产品发布",
     "titleEn": "Bento Product Launch",
@@ -476,6 +536,96 @@
     "coverLabel": "Bolt",
     "demoHref": "https://bolt.new/",
     "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/bento-product-launch"
+  },
+  {
+    "slug": "ai-companion",
+    "nameZh": "AI 助手着陆页",
+    "titleEn": "AI Companion Landing",
+    "summaryZh": "更像 Decagon、HappyRobot、Letta 这类 AI 助手与 agent 产品首页，核心不是普通 SaaS 功能罗列，而是 agent 角色、工作流能力和可信演示同时成立。",
+    "cardUses": [
+      "agent 产品",
+      "客服 AI",
+      "自动化助手"
+    ],
+    "lookLike": [
+      "agent 角色先行",
+      "workflow demo 很近",
+      "CTA 很短",
+      "转化与能力并列"
+    ],
+    "notFor": [
+      "普通 docs 首页",
+      "纯研究档案站",
+      "慢节奏生活方式页"
+    ],
+    "filterTags": [
+      "technology-future",
+      "product-tool"
+    ],
+    "cover": "decagon.png",
+    "coverLabel": "Decagon",
+    "demoHref": "https://www.decagon.ai/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/ai-companion"
+  },
+  {
+    "slug": "health-soft-tech",
+    "nameZh": "医疗健康软科技",
+    "titleEn": "Health & Care Soft-Tech",
+    "summaryZh": "更像 Click Therapeutics、Superpower、Happy Ring 这类医疗健康与 care 科技首页，要同时处理临床可信、人味和现代产品感，不能冷得像企业后台，也不能虚到只剩 wellness 氛围。",
+    "cardUses": [
+      "数字健康",
+      "care 科技",
+      "医疗品牌站"
+    ],
+    "lookLike": [
+      "关怀但可信",
+      "产品结果明确",
+      "人物与数据并用",
+      "界面克制"
+    ],
+    "notFor": [
+      "冷硬开发者平台",
+      "霓虹游戏页",
+      "普通 DTC 商店页"
+    ],
+    "filterTags": [
+      "craft-natural",
+      "product-tool"
+    ],
+    "cover": "superpower.png",
+    "coverLabel": "Superpower",
+    "demoHref": "https://superpower.com/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/health-soft-tech"
+  },
+  {
+    "slug": "frontier-research-lab",
+    "nameZh": "前沿研究实验室",
+    "titleEn": "Frontier Research Lab",
+    "summaryZh": "更像 Anthropic、Arc Institute、Normal 这类前沿研究与实验室型网站，首页更像 thesis、机构信誉和研究方向的入口，而不是普通品牌宣传页。",
+    "cardUses": [
+      "研究机构",
+      "AI research",
+      "科学平台公司"
+    ],
+    "lookLike": [
+      "thesis 先行",
+      "机构信誉明确",
+      "研究入口可深读",
+      "像 lab 而不是 SaaS"
+    ],
+    "notFor": [
+      "纯销售型 landing page",
+      "大众电商首页",
+      "模板市场目录"
+    ],
+    "filterTags": [
+      "technology-future",
+      "minimal-black-white"
+    ],
+    "cover": "anthropic.png",
+    "coverLabel": "Anthropic",
+    "demoHref": "https://www.anthropic.com/",
+    "githubSkillHref": "https://github.com/EOMZON/design-skills/tree/main/styles/frontier-research-lab"
   },
   {
     "slug": "industrial-hardware",
