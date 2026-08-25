@@ -1,0 +1,23 @@
+schemaVersion: creationos.project/v1
+project:
+  id: styles
+  name: Webdesign Style Skills (Module)
+  lifecycle: maintenance
+  category: design
+  visibility: public
+  repository: EOMZON/design-skills
+  description: 由 webdesign-site 导出的公共网站风格 skill 集合；是执行与分发模块，不是独立 styles.zondev.top 产品
+app:
+  enabled: false
+catalog:
+  registration: declared
+  truthOwner: source-repository
+  modules:
+    goal: verified
+    market: verified
+    user: verified
+    pool: verified
+    dev: verified
+    test: partial
+    launch: not_applicable
+    data: partial
