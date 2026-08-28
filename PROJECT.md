@@ -21,8 +21,14 @@ Project Hub 中的 `styles.zondev.top` 记录并不存在对应独立站点或�
 
 ## 回归与下一步
 
-`R0 PASS / R1 PASS / R2 PARTIAL / R3 MISSING / R4 NOT_APPLICABLE / R5 MISSING`
+`R0 PASS / R1 PASS / R2 PARTIAL / R3 PARTIAL / R4 NOT_APPLICABLE / R5 MISSING`
 
-`node scripts/smoke-catalog.mjs` 校验 catalog、目录、frontmatter、README 链接和 GitHub URL 一致。当前公共仓有 40 个 skill，而 webdesign 工作区的 dirty atlas 已有 42 个；在 atlas 改动形成恢复点并明确执行 `export:skills` 前，不手工补两个目录，也不把同步标成通过。
+`node scripts/smoke-catalog.mjs` 校验当前 40 个 catalog、目录、frontmatter、README 链接和 GitHub URL 一致。`node scripts/smoke-upstream-export-preview.mjs` 会把当前 Webdesign dirty source 放入临时目录，排除旧 dist 后 build/export 并验证 42 个生成 skill，再逐字比较公共仓；当前精确差异为新增 `decision-surface`、`electric-learning-library`，`changed=[] / removed=[]`。加 `--require-synced` 会 fail-closed。在上游形成恢复点并明确执行跨仓同步前，不手工补目录，也不把 R2/data 标成通过。
+
+```bash
+node scripts/smoke-catalog.mjs
+node scripts/smoke-upstream-export-preview.mjs
+node scripts/smoke-upstream-export-preview.mjs --require-synced # 当前应失败并列出 2 个 added
+```
 
 下一次有真实选型任务时记录选中 slug、实际 prompt/skill 使用、产出和返工；连续 8 周无人取用则将本身份并入 `webdesign-site` 展示，不删除公共仓历史。

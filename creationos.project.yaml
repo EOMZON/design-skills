@@ -18,6 +18,6 @@ catalog:
     user: verified
     pool: verified
     dev: verified
-    test: partial
+    test: verified
     launch: not_applicable
     data: partial
